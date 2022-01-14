@@ -5,6 +5,7 @@
 - 🧑🏽‍💻 I'm a computer science apprentice
 - 👾 Into new technology
 - 🥽 VR lover
+- 🦉 ACNH
 
 ### My goals 2022
 
