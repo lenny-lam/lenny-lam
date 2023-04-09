@@ -7,7 +7,7 @@
 - 🥽 VR lover
 - 🦉 ACNH
 
-### My goals 2022
+### My goals 2023
 
 - Actively manage my blog
 - Learn new technologies
@@ -27,6 +27,7 @@
 I love innovation!
 
 [website]: https://lennylam.dev
+[socials]: https://lenl.ink/socials
 [instagram]: https://www.instagram.com/lenny._lenny/
 [linkedin]: https://linkedin.com/in/lennylam
 [snapchat]: https://www.snapchat.com/add/lennylam15
